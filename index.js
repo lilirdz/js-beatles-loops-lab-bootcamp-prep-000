@@ -10,7 +10,7 @@ function johnLennonFacts(facts){
   var oldFacts = [...facts]
   var newFacts = []
   while (i < oldFacts.length) {
-    
+    newFacts.push(oldFacts[i] + "!!!")
   }
 }
 
