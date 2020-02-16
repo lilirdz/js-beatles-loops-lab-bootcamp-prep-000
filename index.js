@@ -10,6 +10,6 @@ function johnLennonFacts(facts){
   while
 }
 
-function iLoveTheBeatles(num){
+function iLoveTheBeatles(n){
   
 }
