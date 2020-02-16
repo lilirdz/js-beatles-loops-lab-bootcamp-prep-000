@@ -14,6 +14,7 @@ function johnLennonFacts(facts){
     newFacts.push(oldFacts[i] + " !!!")
     i++;
   }
+  return newFacts
 }
 
 function iLoveTheBeatles(n){
